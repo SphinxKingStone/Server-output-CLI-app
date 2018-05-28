@@ -1,0 +1,1 @@
+Server output CLI app
